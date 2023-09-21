@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "04-gif-expert-app"
+	},
+	"launch": {
+		"configurations": [
+			{
+				"type": "chrome",
+				"name": "http://localhost:5173/",
+				"request": "launch",
+				"url": "http://localhost:5173/"
+			}
+		]
+	}
+}
